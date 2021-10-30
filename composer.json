@@ -40,7 +40,6 @@
         "symfony/yaml": "^5.3",
         "tgalopin/html-sanitizer-bundle": "^1.2",
         "twig/intl-extra": "^3.0",
-        "symfony/DebugBundle": "^5.3",
         "twig/markdown-extra": "^3.0"
     },
     "require-dev": {
@@ -52,6 +51,7 @@
         "symfony/maker-bundle": "^1.11",
         "symfony/phpunit-bridge": "^5.3",
         "symfony/stopwatch": "^5.3",
+        "symfony/debug-bundle": "^5.3",
         "symfony/web-profiler-bundle": "^5.3"
     },
     "config": {
